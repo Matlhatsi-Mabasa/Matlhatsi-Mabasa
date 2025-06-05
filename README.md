@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Matlhatsi Mabasa
 
-🎓 I'm currently pursuing a **Higher National Diploma in Information Technology** at **Belgium Campus** (2023–2025) and building a strong foundation in full-stack development and software engineering.
+🎓 I'm currently pursuing a **Higher National Diploma in Information Technology** at **Belgium Campus** (2023–2026) and building a strong foundation in full-stack development and software engineering.
 
 🌍 Based in **Pretoria, Gauteng, South Africa**, I'm passionate about creating user-friendly, efficient, and scalable web applications.
 
