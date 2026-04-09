@@ -31,18 +31,16 @@ I am a dedicated Software Development student at **Belgium Campus iTversity** wi
 
 ---
 
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Matlhatsi-Mabasa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ernestmabasa19@gmail.com) 
+### **📫 Connect with Me**
+- **LinkedIn:** [linkedin.com/in/matlhatsi-mabasa](https://www.linkedin.com/in/matlhatsi-mabasa)
+- **Email:** [ernestmabasa19@gmail.com](mailto:ernestmabasa19@gmail.com)
 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Matlhatsi-Mabasa&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Matlhatsi-Mabasa&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matlhatsi-Mabasa&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Matlhatsi-Mabasa&theme=rose&cache_seconds=86400)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
