@@ -24,29 +24,15 @@ I am a dedicated Software Development student at **Belgium Campus iTversity** wi
 | **Cloud & Tools** | ![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
-
-### **📈 GitHub Activity**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
-
----
-
 ### **📫 Connect with Me**
 - **LinkedIn:** [linkedin.com/in/matlhatsi-mabasa](https://www.linkedin.com/in/matlhatsi-mabasa)
 - **Email:** [ernestmabasa19@gmail.com](mailto:ernestmabasa19@gmail.com)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Matlhatsi-Mabasa&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Matlhatsi-Mabasa&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matlhatsi-Mabasa&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Matlhatsi-Mabasa&theme=rose&cache_seconds=86400)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Matlhatsi-Mabasa&limit=5&theme=rose&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Matlhatsi-Mabasa&icon=0&color=5)](https://visitcount.itsvg.in)
